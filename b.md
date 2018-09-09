@@ -4,7 +4,7 @@
 | :----: | :----: | :----: | :----: |
 | 地址1 | https://b.ss4user.com | 正常 | 高可用 | 
 | 地址2 | https://b.five5mu.com | 正常 | 高可用 | 
-||
+|[用户中心 - 目录](https://github.com/five5mu/shadowsocks/blob/rm/index.md)|
 
 ### 说明
 
