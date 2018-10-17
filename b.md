@@ -14,7 +14,7 @@
 > 3. 我们会在上面表格持续更新最新地址，防走丢，请收藏本链接！
 > 4. B区-防走丢链接：https://github.com/five5mu/shadowsocks/blob/b/b.md
 
-#### 永久域名 back2cn.com
+#### 永久域名：back2cn.com
 
 ### 联系我们
 
