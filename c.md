@@ -13,7 +13,7 @@
 > 4. C区-防走丢链接：https://github.com/five5mu/shadowsocks/blob/c/c.md
 
 #### 佛跳墙 - 呐，做人呢，最重要的就是开心。
-永久域名 godusess.com （被墙，需要开启全局代理访问。）
+#### 永久域名 godusess.com （被墙，需要开启全局代理访问。）
 
 ### 联系我们
 
