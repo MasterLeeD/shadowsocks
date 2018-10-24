@@ -5,5 +5,5 @@
 | 備用1 | https://e.ss4user.com | 5% | 關閉註冊 | 
 | 備用2 | https://e.five5mu.com | 5% | 關閉註冊 | 
 
-| [用户中心 - 导航](https://github.com/five5mu/shadowsocks/blob/rm/index.md)  |
+| [用户中心 - 导航](https://five5mu.gitbook.io/tutorial/)  |
 | :----: |
