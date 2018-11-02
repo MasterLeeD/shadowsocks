@@ -4,8 +4,8 @@
 
 | F区 | 最新地址👇 | 服务 | 状态 |
 | :----: | :----: | :----: | :----: |
-| 地址1 | https://f.tizizz.xyz | 正常 | 高可用 |
-| 地址2 | https://f.lmoutcn.xyz | 正常 | 高可用 |
+| 地址1 | https://f.godss-cn1.xyz | 正常 | 高可用 |
+| 地址2 | https://f.hxingss-cn2.xyz | 正常 | 高可用 |
 
 ### 说明
 
